@@ -1,5 +1,3 @@
- workflow_dispatch:
-
 jobs:
   build:
     name: Start Building...
